@@ -124,6 +124,7 @@ input {
     width: 750px;
     border: none;
     padding-left: 10px;
+    border-left: var(--title-color) solid 5px;
 }
 
 
